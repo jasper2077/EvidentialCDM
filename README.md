@@ -3,7 +3,7 @@ Pytorch implementation for Learning Evidential Cognitive Diagnosis Networks Robu
 
 Train the model:
 
-python train.py {device} {epoch}
+***python train.py {device} {epoch}
 
 For example:
 
