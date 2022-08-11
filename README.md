@@ -1,5 +1,5 @@
 # EvidentialCDM
-Pytorch implementation for Learning Evidential Cognitive Diagnosis Networks Robust to Response Bias
+Pytorch implementation for <<Learning Evidential Cognitive Diagnosis Networks Robust to Response Bias>>
 
   Train the model:
 
